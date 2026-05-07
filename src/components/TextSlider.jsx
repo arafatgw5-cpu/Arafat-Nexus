@@ -1,14 +1,17 @@
 "use client";
+
 import React, { useEffect, useState } from "react";
+
+const textItems = [
+  "Frontend Web Developer",
+  "Next.js Developer",
+  "Full Stack Developer",
+  "MERN Stack Learner",
+];
 
 const TextSlider = () => {
   const animHeight = 30;
   const [currentIndex, setCurrentIndex] = useState(0);
-  const textItems = [
-    "Software Engineer",
-    "Full stack Developer",
-    "UI/UX Designer",
-  ];
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -29,7 +32,7 @@ const TextSlider = () => {
         {textItems.map((item, index) => (
           <p
             key={index}
-            className="font-semibold text-white/70 tracking-wider mb-1 whitespace-nowrap"
+            className="h-[30px] font-semibold text-white/70 tracking-wider whitespace-nowrap flex items-center"
           >
             {item}
           </p>
