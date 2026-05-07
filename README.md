@@ -1,95 +1,99 @@
-<h1 align="center">💪 Dynamic Personal Portfolio 🤖</h1>
+# Hi, I'm Easin Arafat 👋
 
-![https://portfolio-new-seven-opal.vercel.app/](/public/readme.png)
+**Frontend Web Developer | Next.js Developer**  
+📍 Bangladesh | 📧 [arafatgw5@gmail.com](mailto:arafatgw5@gmail.com) | 📱 +880 1876751422
 
-## Highlights:
+---
 
-- 🚀 Tech stack: Next.js, React, Tailwind CSS, Shadcn UI
-- 🎨 Animations: Framer Motion, Swiper
-- 🛠️ Modern UI Libraries: Radix UI, React-CountUp
-- 📬 Contact Form Integration: Getform.io
-- 💻 Responsive Design
-- 🔒 Easy Installation
-- 🎭 Client & Server Components
+## 🚀 About Me
 
-## Features
+I'm a frontend web developer passionate about building clean, responsive, and user-friendly web applications. I specialize in **React.js** and **Next.js**, with hands-on experience in authentication, REST API integration, dynamic routing, and Vercel deployment.
 
-- Dynamic Portfolio Showcase: Display your projects, skills, and achievements with a modern, animated UI
-- Smooth Animations: Engage users with fluid transitions and effects powered by Framer Motion and Swiper
-- Interactive UI Components: Leverage Radix UI and React-CountUp for accessible, dynamic elements
-- Contact Form: Collect user inquiries seamlessly via Getform.io
-- Responsive Design: Optimized for all devices, from mobile to desktop
-- Customizable: Easily adapt the portfolio to your personal brand and content
+Currently, I’m pursuing my B.Sc. and actively looking for **Internship / Junior Frontend Developer** opportunities.
 
-## Getting Started
+---
 
-1. Purchase and download the project from
-2. Clone or unzip the repository
-3. Install dependencies:
+## 🛠️ Tech Stack
 
-```shell
-npm install or
-pnpm install or
-yarn install
-```
+**Frontend**  
+`HTML` `CSS` `JavaScript` `React.js` `Next.js` `Tailwind CSS` `DaisyUI` `shadcn/ui`
 
-4. Run the development server:
+**Backend & Database**  
+`Node.js Basics` `MongoDB` `REST API` `Better Auth`
 
-```shell
-npm run dev
-```
+**Tools & Platforms**  
+`Git` `GitHub` `VS Code` `npm` `Vercel`
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser
+**Core Concepts**  
+`Responsive Design` `Dynamic Routing` `Authentication` `API Integration` `SSR` `SSG` `ISR`
 
-## Deployment
+---
 
-Deploy effortlessly to Vercel:
+## 📂 Featured Projects
 
-```shell
-npm run build
-npm run start
-```
+### 🎓 [SkillSphere — Online Learning Platform](https://skill-sphere-b13-8-94z6.vercel.app)
 
-Or connect your GitHub repository to Vercel for automatic deployments.
+**Tech Stack:** Next.js, React.js, Tailwind CSS, Better Auth, MongoDB
 
-## Technologies Used
+A modern online learning platform where users can explore courses, view course details, and access a protected profile page.
 
-## Getform Configuration
+- Built responsive course listing and course details pages
+- Implemented login/register system with protected profile page
+- Integrated local course data
+- Deployed on Vercel
 
-To configure the contact form, follow these steps:
+---
 
-- Go to [Getform.io](https://getform.io) and sign up for an account.
-- Get the endpoint URL for your form. and then use it to "/components/ContactForm.tsx
-- Used the api ke on fetch method
+### 📰 [Dragon News — News Portal](https://dragon-news-blush.vercel.app)
 
-```shell
- const response = await fetch("", {
-       method: "POST",
-       body: form,
-     });
-```
+**Tech Stack:** Next.js, React.js, Tailwind CSS, REST API, Better Auth
 
-- **Next.js**: React framework for building the frontend and API routes
-- **Tailwind CSS & Shadcn UI**: For styling and UI components
-- **Framer Motion**: For smooth animations and transitions
-- **Swiper**: For carousel and slider functionality
-- **Radix UI:**: For accessible, unstyled UI components
-- **React-CountUp**: For animated number counters
-- **Getform.io**: For handling contact form submissions
+A responsive news portal with category-based navigation and dynamic article details.
 
-## Live Demo
+- Created category-based news pages
+- Built dynamic article details page
+- Integrated external news API
+- Designed responsive news card layout
 
-Check out the live portfolio: https://portfolio-new-seven-opal.vercel.app/
+---
 
-## Learn More
+### 💼 [Arafat Nexus — Portfolio Website](https://arafat-nexus-6u29.vercel.app)
 
-To learn more about the technologies used in this project:
+**Tech Stack:** Next.js, React.js, Tailwind CSS, Framer Motion
 
-- [https://nextjs.org/docs]Next.js Documentation
-- [https://tailwindcss.com/docs]Tailwind CSS Documentation
-- [https://ui.shadcn.com]Shadcn UI Documentation
-- [https://www.framer.com/motion]Framer Motion Documentation
-- [https://swiperjs.com]Swiper Documentation
-- [https://www.radix-ui.com]Radix UI Documentation
-- [https://www.npmjs.com/package/react-countup]React-CountUp Documentation
-- [https://getform.io/docs]Getform.io Documentation
+A personal developer portfolio to showcase skills, projects, resume, and contact information.
+
+- Built modern animated portfolio UI
+- Added Projects, Skills, Resume, and Contact sections
+- Created fully responsive layout
+- Deployed live on Vercel
+
+---
+
+## 🎯 Highlights
+
+- Built and deployed multiple Next.js projects
+- Completed major Programming Hero Batch 13 assignments
+- Comfortable with Git, GitHub, and Vercel deployment
+- Practicing full-stack development with MongoDB and authentication systems
+- Open to Internship / Junior Frontend Developer roles
+
+---
+
+## 📊 GitHub Stats
+
+![Easin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&hide_border=true)
+
+---
+
+## 📬 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arafat-nexus-6u29.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arafatgw5-cpu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatgw5@gmail.com)
+
+---
+
+> **"Clean code, clean UI — always learning, always building."**
